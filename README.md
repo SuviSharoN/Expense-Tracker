@@ -99,14 +99,3 @@ while (result.next()) {
 JFreeChart chart = ChartFactory.createPieChart("Your Expenses", dataset, true, true, false);
 ```
 
-## Documentation
-📎 [Expense Tracker Documentation (Word File)](Your Google Drive or GitHub Link Here)
-
-## Installation & Setup
-1. **Clone the repository**:  
-   ```sh
-   git clone https://github.com/your-username/Expense-Tracker.git
-   ```
-2. **Import the project** into an IDE (Eclipse/IntelliJ).
-3. **Set up MySQL database** (import provided SQL file).
-4. **Run the application** and start tracking expenses
